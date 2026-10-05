@@ -3,3 +3,12 @@ agent-shell-autoloads.el
 
 *.elc
 
+.cursor/cur-kit/state/
+test-results.xml
+
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+.vscode/
+.idea/
